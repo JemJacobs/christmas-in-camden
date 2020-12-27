@@ -1,5 +1,6 @@
 body {
 	background-color: purple;
+	margin: 1em;
 }
 .invitation {
 	background-color: white;
@@ -7,5 +8,17 @@ body {
 	font-family: cursive;
 	font-size: 18px;
 	text-align: center;
-	padding: 20px;
+	width: 500px;
+	margin: auto;
+	padding: 10px;
+	border-radius: 10px;
+}
+.invitation p {
+	margin-bottom: 0;
+}
+img.rabbit {
+	margin: auto;
+	display: block;
+	padding: 30px;
+	width: 400px;
 }
